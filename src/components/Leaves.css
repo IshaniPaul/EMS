@@ -1,0 +1,9 @@
+.leaveContainer {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    gap: 2rem;
+    margin-top: 2rem;
+}
